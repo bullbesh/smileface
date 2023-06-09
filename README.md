@@ -1,5 +1,3 @@
-# Smileface
-
 Here is an example of switching C++ datatypes (implicit conversions).
 
 ```

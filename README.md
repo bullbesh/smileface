@@ -17,7 +17,7 @@ int main() {
 
 I change **a** datatype from _double_ to _char_ (actally _double -> int -> char_)
 
-The output of the program shows average every c++ programmer face. Try it now.
+The output of the program shows average C++ programmer face. Try it now.
 
 P.S.
 You will be able to see the smile only if you output is ASCII. Unfortunately, C++ allows you to convert all of this stuff:

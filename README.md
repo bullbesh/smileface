@@ -24,4 +24,4 @@ The output of the program shows average every c++ programmer face. Try it now.
 P.S.
 You will be able to see the smile only if you output is ASCII. Unfortunately, C++ allows you to convert all of this stuff:
 
-![](https://github.com/bullbesh/Smileface/blob/main/ascii.jpg "ASCII table.")
+![](https://github.com/bullbesh/Smileface/blob/main/ascii.png "ASCII table.")
